@@ -1,34 +1,38 @@
-# Hi, I'm Esli 👋
-### I'm a Data Science & AI student passionate about turning raw data into meaningful insights and building intelligent systems. Currently enrolled in the Ironhack x IDDA Data & AI program, working on real-world analytics, machine learning, and deep learning projects.
+# I'm Esli Ehmedova
 
-## 🎓 Education & Training
-### Data & AI Program — Ironhack x IDDA (Feb 2026 – Present)
+### I'm an aspiring Data Scientist and Data Analyst who has worked on several datasets and projects. 
 
-### Selected for the competitive Data & AI track (IT SkillSprint). Training in Data Science, Data Engineering, Statistics, ML, Deep Learning and AI.
+Project name; Cat Detection
 
-### Data Analytics Program — Code Academy (Sep 2025 – Jan 2026)
+Used tools; Python, YOLO, PyTorch
 
-### Awarded a 100% full merit-based scholarship. Trained in Excel, SQL, Statistics, and R.
+Where has been used; IT SkillSprint Program
 
-### Data Science & Machine Learning Program — Ingress Academy (Mar 2025 – Sep 2025)
-
-### Awarded a 30% merit-based scholarship. Trained in Python, ML, Deep Learning, NLP, and AI fundamentals.
+Link; [Cat Detection](https://github.com/esliehmedova/m6-04-assessment)
 
 
-##🛠️ Technical Skills
-### Programming & Data Tools
-### Python Pandas NumPy Scikit-learn SQL R Jupyter Notebook Excel
-### Statistics & Data Science
-### EDA Data Cleaning Feature Engineering Statistical Analysis Time Series Forecasting
-### AI & Machine Learning
-### Regression Classification Clustering Deep Learning NLP RAG Chatbot Development
-### Data Visualization & BI
-### Matplotlib Seaborn Plotly Excel Dashboards
+Project name; Retail Sales Data Analysis (10M+ records)
 
-## 🚀 Projects
+Used tools; R
 
-| Project | Description | Tech |
-|---|---|---|
-| [Cat Detection](https://github.com/esliehmedova/m6-04-assessment) | YOLOv8 cat detector — 93.4% mAP@0.5 | Python, YOLO, PyTorch |
+Where has been used; Code Academy Final Project
 
-More projects coming soon...
+Link; [Retail Sales Data Analysis](https://docs.google.com/presentation/d/15VCLNE1t9aoU9SwKlDoElEKDCDwKsK/edit)
+
+
+Project name; Cotton Yield Prediction
+
+Used tools; Machine Learning (RidgeCV, RandomForestClassifier), Python, SQL, Jupyter Notebook, Open-Meteo Archive API, Pandas, DuckDB
+
+Where has been used; IT SkillSprint Program — Midterm Project
+
+Link; [Cotton Yield Prediction](https://github.com/esliehmedova/agriculture-cotton-yield-prediction)
+
+
+Project name; AI Voice Assistant
+
+Used tools; Python, Whisper, Silero VAD, Ollama, Gemini API, RAG, FAISS, BM25, PostgreSQL, FastAPI, WebSocket, Edge TTS, Docker
+
+Where has been used; IT SkillSprint Final Project
+
+Link (teammate's repository); [AI Voice Assistant](https://github.com/orxannuriyev/AzVoice-AI)
