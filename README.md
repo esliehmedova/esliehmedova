@@ -36,3 +36,20 @@ Used tools; Python, Whisper, Silero VAD, Ollama, Gemini API, RAG, FAISS, BM25, P
 Where has been used; IT SkillSprint Final Project
 
 Link (teammate's repository); [AI Voice Assistant](https://github.com/orxannuriyev/AzVoice-AI)
+
+Project name; COVID-19 Data Exploration
+
+Used tools; SQL (MySQL), Python (Pandas, SQLAlchemy)
+
+Where has been used; Personal Portfolio Project
+
+Link; [COVID-19 Data Exploration](https://github.com/esliehmedova/PortfolioProject1)
+
+
+Project name; COVID-19 Dashboard
+
+Used tools; Tableau Public, SQL (MySQL), Python (Pandas)
+
+Where has been used; Personal Portfolio Project
+
+Link; [COVID-19 Dashboard](https://github.com/esliehmedova/PortfolioProject2) | [Interactive Dashboard](https://public.tableau.com/app/profile/asli.ahmedova/viz/Covid_dashboard_17923298625910/Dashboard1)
