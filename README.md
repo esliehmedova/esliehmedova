@@ -17,7 +17,7 @@ Used tools; R
 
 Where has been used; Code Academy Final Project
 
-Link; [Retail Sales Data Analysis](https://docs.google.com/presentation/d/15VCLNE1t9aoOvU9SwKlDoElEKDCDwKsK/edit?usp=sharing&ouid=106900150251620870387&rtpof=true&sd=true)
+Link; [Retail Sales Data Analysis](https://github.com/esliehmedova/codeacademy_final_project/tree/main)
 
 
 Project name; Cotton Yield Prediction
