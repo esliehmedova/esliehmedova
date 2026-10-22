@@ -1,4 +1,4 @@
-# I'm Esli Ehmedova
+# I'm Asli Ahmadova
 
 ### I'm an aspiring Data Scientist and Data Analyst who has worked on several datasets and projects. 
 
