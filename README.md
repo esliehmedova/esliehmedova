@@ -53,3 +53,12 @@ Used tools; Tableau Public, SQL (MySQL), Python (Pandas)
 Where has been used; Personal Portfolio Project
 
 Link; [COVID-19 Dashboard](https://github.com/esliehmedova/PortfolioProject2) | [Interactive Dashboard](https://public.tableau.com/app/profile/asli.ahmedova/viz/Covid_dashboard_17923298625910/Dashboard1)
+
+
+Project name: Bank Customer Churn Prediction & Dashboard
+
+Used tools: Python, Pandas, Scikit-learn, XGBoost, SMOTE (imbalanced-learn), Matplotlib, Seaborn, Power BI, DAX
+
+Where has been used: University Power BI course (independent project)
+
+Link: [Bank Customer Churn](https://github.com/esliehmedova/PortfolioProject3)
