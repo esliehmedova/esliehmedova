@@ -62,3 +62,12 @@ Used tools: Python, Pandas, Scikit-learn, XGBoost, SMOTE (imbalanced-learn), Mat
 Where has been used: University Power BI course (independent project)
 
 Link: [Bank Customer Churn](https://github.com/esliehmedova/PortfolioProject3)
+
+
+Project name; Bike Buyers Analysis & Dashboard
+
+Used tools; Microsoft Excel (Data Cleaning, IF Formulas, PivotTables, PivotCharts, Slicers)
+
+Where has been used; Personal Portfolio Project
+
+Link; [Bike Buyers Dashboard](https://github.com/esliehmedova/PortfolioProject4)
