@@ -71,3 +71,13 @@ Used tools; Microsoft Excel (Data Cleaning, IF Formulas, PivotTables, PivotChart
 Where has been used; Personal Portfolio Project
 
 Link; [Bike Buyers Dashboard](https://github.com/esliehmedova/PortfolioProject4)
+
+
+Project name: Coffee Sales Dashboard
+
+Used tools: Microsoft Excel (XLOOKUP, INDEX MATCH, Nested IF Formulas, Custom Number Formats, Excel Tables, PivotTables, PivotCharts, Timeline, Slicers)
+
+Where has been used: Personal Portfolio Project
+
+Link: [Coffee Sales Dashboard](https://github.com/esliehmedova/PortfolioProject5)
+ 
